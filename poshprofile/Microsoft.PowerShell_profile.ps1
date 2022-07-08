@@ -10,7 +10,7 @@
 # shell config
 $PSDefaultParameterValues["*:Encoding"] = "utf8"
 
-# remove unnecessary aliases (cause i want to use msys64 one)
+# remove unnecessary aliases (cause I want to use MSYS2 installed programs)
 del alias:man -Force
 del alias:ls -Force
 del alias:wget -Force
@@ -42,6 +42,9 @@ New-Alias -Name vrc -Value VimVIMRC
 
 Function VimNeofetchConfig {vim C:\msys64\home\DELL\.config\neofetch\config.conf}
 New-Alias -Name neo -Value VimNeofetchConfig
+
+Function TreeShowFiles {tree /f}
+New-Alias -Name ttree -Value TreeShowFiles
 
 # banner
 bash neofetch --gap 10
