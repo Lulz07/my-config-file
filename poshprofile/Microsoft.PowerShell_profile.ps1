@@ -31,5 +31,8 @@ New-Alias -Name prf -Value VimPROFILE
 Function VimVIMRC {vim ~/_vimrc}
 New-Alias -Name vrc -Value VimVIMRC
 
+Function VimNeofetchConfig {vim C:\msys64\home\DELL\.config\neofetch\config.conf}
+New-Alias -Name neo -Value VimNeofetchConfig
+
 # banner
 bash neofetch --gap 10
