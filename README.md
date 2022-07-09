@@ -57,8 +57,8 @@ The `alias.zsh` on the other hand contains all of my current `Zsh` aliases. You
 need to manually copy the file content and paste them inside your `~/.zshrc`.
 I might provide a simple script that does this in the future, who knows.
 
-`zsh-shell-prompt` folder contains the current prompt I use for `Zsh`.
-**Again, I'm not the author of this prompt too**.
+`zsh-shell-prompt` folder contains the current prompt I used with `OhMyZsh`.
+**I'm not the author of this prompt whatsoever**.
 Here's the [original repository](https://github.com/r7l/agnoster-gentoo-zsh-theme).
 
 ## My Vim Configuration File
