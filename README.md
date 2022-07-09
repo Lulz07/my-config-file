@@ -13,7 +13,7 @@ while writing this.**
 - [Cloning](#Cloning)
 - [About the PowerShell Profile](#About-the-PowerShell-Profile)
 - [About the Termux Files](#About-the-Termux-Files)
-- [My Vim Configuration File](#My Vim Configuration File)
+- [My Vim Configuration File](#My-Vim-Configuration-File)
 - [Todo](#Todo)
 - [License](#License)
 ##
