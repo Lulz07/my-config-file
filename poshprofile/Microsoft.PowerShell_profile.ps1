@@ -1,8 +1,7 @@
 ###########################################################################
 # This PowerShell profile will only work if you have MSYS2 installed, and #
 # the directory msys64\mingw64\bin and msys64\usr\bin were added to PATH. #
-# For MSYS2 installation check out the articles down below:               #
-# - http://feaforall.com/install-c-language-gcc-compiler-windows/         #
+# For MSYS2 installation check out the article down below:                #
 # - https://www.msys2.org/wiki/MSYS2-installation                         #
 #                                                                         #
 ###########################################################################

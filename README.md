@@ -13,7 +13,7 @@ while writing this.**
 - [Cloning](#Cloning)
 - [About the PowerShell Profile](#About-the-PowerShell-Profile)
 - [About the Termux Files](#About-the-Termux-Files)
-- [Vimrc](#Vimrc)
+- [My Vim Configuration File](#My Vim Configuration File)
 - [Todo](#Todo)
 - [License](#License)
 ##
@@ -21,7 +21,7 @@ while writing this.**
 ## Cloning
 
 This repository can be cloned using the command down below:
-```bash
+```shell
 git clone https://github.com/Lulz07/my-config-file.git
 ```
 
@@ -43,11 +43,11 @@ googling stuff.**
 ## About the Termux Files
 
 I used `FiraCode` as the default font. I already provided it here though, feel
-free to use it, **BUT REMEMBER, I'M NOT THE ORIGINAL AUTHOR OF THE FONT**. As
+free to use it, but remember, I'm not the original author of the font. As
 for the colors, I have provided the `colors.properties` file located inside
-the `termux` directory. **I ONLY COPIED IT FROM THE APP, I'M NOT THE AUTHOR
-OF IT WHATSOEVER**. `termux.properties` on the other hand contains the terminal
-settings, [for more details click here](https://wiki.termux.com/wiki/Terminal_Settings).
+the `termux` folder. I only copied it from the app anyway.
+`termux.properties` on the other hand contains the terminal settings I used
+currently, [click here for more details regarding the terminal settings](https://wiki.termux.com/wiki/Terminal_Settings).
 
 To apply it, simply replace the file you want to change inside the `~/.termux`
 directory. The same applied to Neofetch `config.conf`; which can be done by
@@ -57,14 +57,15 @@ The `alias.zsh` on the other hand contains all of my current `Zsh` aliases. You
 need to manually copy the file content and paste them inside your `~/.zshrc`.
 I might provide a simple script that does this in the future, who knows.
 
-`zsh-shell-prompt` directory contains the current prompt I use for `Zsh`.
+`zsh-shell-prompt` folder contains the current prompt I use for `Zsh`.
 **Again, I'm not the author of this prompt too**.
 Here's the [original repository](https://github.com/r7l/agnoster-gentoo-zsh-theme).
 
-## Vimrc
+## My Vim Configuration File
 
-My `vimrc` file... Simple right? :)
-I might write my own colorscheme if I got time to do it.
+The `vim` folder contains my Vim configuration file. For now I only uploaded a simple
+`vimrc` file ready to use. I might upload a colorscheme file or even a far more
+complex `vimrc` file in the future. Who knows? :)
 
 ## Todo
 
