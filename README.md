@@ -1,9 +1,9 @@
 This repository contains all of my current environment configuration files such
-as my `vimrc` file, my PowerShell profile, and my Termux properties files.
+as my `vimrc` file, my PowerShell profile, and my Termux properties.
 
 This repository is intended to be a place where I could push changes I made to
-all of these files particularly for cloning purposes (if somehow my enviroment got
-broken and I am way too lazy to rewrite all of these files lmao).
+all of these files (if somehow my enviroment got broken and I am way too lazy
+to rewrite all of these files lmao).
 
 For more details, below is the contents for all of this nonsense.
 **I'm not a native English speaker anyway so it make sense for me to do mistakes
